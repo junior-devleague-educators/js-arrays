@@ -32,7 +32,7 @@ Remember to console the variable after each exercise.
 
 Use the following array for the next set of exercises. Remember to console log the variable after each exercise.
 
-var endangeredAnimals = ['Black Rhino', 'Sea Otter', 'Whooping Crane', 'Snow Leopard', 'Tiger', 'Gorilla', 'Orangutan'];
+`var endangeredAnimals = ['Black Rhino', 'Sea Otter', 'Whooping Crane', 'Snow Leopard', 'Tiger', 'Gorilla', 'Orangutan'];`
 
 1.  Get the length of the array and store it in a variable.
 
