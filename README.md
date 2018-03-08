@@ -37,3 +37,17 @@ Use the following array for the next set of exercises. Remember to console log t
 1.  Get the length of the array and store it in a variable.
 
 2.  Access the array and store each animal in it's own variable. You should have 7 total variables.
+
+#### Stretch Goals
+
+Using the variables you previously made to store individual animals, recreate the following sentences:
+
+1.  "Black Rhinos have three toes."
+
+2.  "Other than primates, Sea otters are one of few mammals known to use tools."
+
+3.  "Sumatra is the last place on Earth that Orangutans, Rhinos, and Tigers live together."
+
+4.  "As roaming herbivores, Gorillas play a vital role in seed dispersal."
+
+5.  "In the summer, Snow Leopards may climb as high as 5000 meters above sea level!"
