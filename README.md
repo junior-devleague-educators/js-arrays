@@ -16,7 +16,7 @@ var myOtherVariableName = ['items go in here']
 
 Remember to console the variable after each exercise.
 
-#### Creating Variables
+#### Creating Arrays
 
 1.  Declare a variable named `studentNames` and assign it an array containing 5 names
 
@@ -28,7 +28,7 @@ Remember to console the variable after each exercise.
 
 5.  Declare a variable named `dynamicDuos` and assign it an array containing 3 sub arrays, with each sub array containing 2 names.
 
-#### Accessing Variables
+#### Accessing Arrays
 
 Use the following array for the next set of exercises. Remember to console log the variable after each exercise.
 
