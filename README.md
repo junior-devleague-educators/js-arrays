@@ -2,15 +2,38 @@
 
 ## Getting Started
 
-1. **Fork** this repository
-2. **Clone** this repository from your personal Github account:
-   * Copy the HTTPS or SSH address on the page.
-   * Run the command `$ git clone [SSH or HTTP address]` in your terminal to clone this repository into your teacher-training folder in your computer (you don't need to type the "$"; this is the command **prompt**, and is used to signify your terminal is ready for commands).
-3. From your terminal navigate to your teacher-training folder and into the js-arrays assignment:
-   * `$ cd teacher-training`
-   * `$ ls`
-   * `cd js-arrays`
-4. Open the js-arrays assignment in your code editor and write your code in the `index.js` file.
-5. Run node in your terminal to test your code:
-   * `$ cd js`
-   * `node index.js` (don't forget to console.log your work)
+The following are exercises to practice creating arrays. Follow each set of directions and write your code in the JavaScript section of CodePen. Above each exercise please add a comment with the instructions. Example:
+
+```
+// Instructions go here
+var myVariableName = ['items go in here'];
+
+// Next set of instructions
+var myOtherVariableName = ['items go in here']
+```
+
+### Exercises
+
+Remember to console the variable after each exercise.
+
+#### Creating Variables
+
+1.  Declare a variable named `studentNames` and assign it an array containing 5 names
+
+2.  Declare a variable named `gradePointAvgs` and assign it an array containing 5 random GPAs
+
+3.  Declare a variable named `hawaiiSchools` and assign it an array containing the names of 5 schools in Hawaii
+
+4.  Declare a variable named `multipleDataTypes` and assign it an array containing 6 different
+
+5.  Declare a variable named `dynamicDuos` and assign it an array containing 3 sub arrays, with each sub array containing 2 names.
+
+#### Accessing Variables
+
+Use the following array for the next set of exercises. Remember to console log the variable after each exercise.
+
+var endangeredAnimals = ['Black Rhino', 'Sea Otter', 'Whooping Crane', 'Snow Leopard', 'Tiger', 'Gorilla', 'Orangutan'];
+
+1.  Get the length of the array and store it in a variable.
+
+2.  Access the array and store each animal in it's own variable. You should have 7 total variables.
